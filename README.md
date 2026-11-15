@@ -20,6 +20,7 @@ La dernière version est dans **[Releases](../../releases/latest)** : téléchar
 - Windows affiche « Windows a protégé votre ordinateur » : clique sur « Informations complémentaires » puis « Exécuter quand même ».
 - Pas besoin de désinstaller l'ancienne version : tes réglages sont gardés.
 - L'application installe et met à jour le mod toute seule.
+- 💡 Lance FS25 Companion **avant** le jeu : si le jeu est déjà ouvert, Windows bloque le fichier du mod et la mise à jour ne peut pas se faire.
 - **Multijoueur** : le serveur (dédié ou hôte) doit avoir la même version du mod. Prends `FS25_Companion.zip` dans la page de la version (Assets) et mets-le dans le dossier mods du serveur. Depuis la 1.5, **retire l'ancien `FS25_StreamDashboard.zip`** du serveur.
 - **Crossplay (PlayStation / Xbox)** : l'application et le mod sont pour PC uniquement. Les joueurs console ne peuvent pas rejoindre un serveur où le mod est installé.
 
@@ -40,6 +41,7 @@ La dernière version est dans **[Releases](../../releases/latest)** : téléchar
 - 🔄 **One-click updates** from the app's start window.
 
 **Download**: get the installer (.exe) from **[Releases](../../releases/latest)** and run it. If Windows says "Windows protected your PC", click "More info" then "Run anyway". The app installs and updates the mod by itself.
+**💡 Tip**: start FS25 Companion **before** the game: if the game is already open, Windows locks the mod file and the update can't happen.
 **Multiplayer**: the server needs the same mod version: put `FS25_Companion.zip` (from the release Assets) in the server's mods folder, and since 1.5 **remove the old `FS25_StreamDashboard.zip`**. PC only: console players can't join a server that runs the mod.
 **Help**: Discord https://discord.gg/xhsWj2e5z3 · Support: https://ko-fi.com/leluxo
 
