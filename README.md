@@ -8,9 +8,9 @@ Compagnon de jeu **et** overlay de stream pour **Farming Simulator 25**. Gratuit
 
 > ⚠️ **Mod non officiel** pour Farming Simulator 25, gratuit, non affilié à GIANTS Software. Farming Simulator est une marque de GIANTS Software. — *Unofficial, free mod for Farming Simulator 25, not affiliated with GIANTS Software.*
 
-- 📱 **Compagnon** (téléphone, tablette ou 2e écran) : carte comme celle du jeu, fiches des champs, engins, bâtiments, animaux et silos, 📦 stocks de la ferme, 📜 contrats (voir, être prévenu, prendre un contrat), liste « À faire », alertes, qui fait quoi, 📍 repères et téléportation, 🛏 dormir.
-- 🎮 **Dans le jeu** : blocs d'infos à placer où tu veux (À faire, Qui fait quoi, Météo, Champ actuel, Alertes, 💬 chat Twitch de ton live), 🧭 boussole en haut de l'écran, touche F9.
-- 🎥 **Stream (OBS)** : ton véhicule, tes outils, le champ, la météo, l'argent, la boussole… dans une page à ajouter dans OBS, blocs aimantés à placer à la souris.
+- 📱 **Compagnon** (2e écran, tablette ou téléphone) : carte comme celle du jeu, fiches des champs avec la ➜ **prochaine étape** et le travail en cours, 🛒 **achat de champs et de bâtiments**, 🏠 bâtiments **regroupés et renommés**, 📦 stocks avec prix et conseil « Vends / Attends / Garde », 📜 contrats, liste « À faire », alertes (dont l'ouvrier arrêté), qui fait quoi, 📍 repères et téléportation, 💬 live et chat Twitch.
+- 🎮 **Dans le jeu** : 🧭 **GPS par les vraies routes** (chevrons ou points dans le bon sens de ta voie), 🗺️ **mini-carte** avec tes ouvriers (zone faite, %), les couleurs des champs, les autres joueurs et le ping, blocs d'infos à placer où tu veux (À faire, Champ actuel, Météo, Alertes, chat Twitch), boussole, touche F9.
+- 🎥 **Stream (OBS)** : ton véhicule, tes outils, le champ, la météo, l'argent, la mini-carte… dans une page à ajouter dans OBS, blocs aimantés à placer à la souris, possible sur un 2e PC de stream.
 - 🔄 **Mises à jour en 1 clic** depuis la fenêtre d'accueil de l'application.
 
 ## ⬇️ Télécharger
@@ -35,9 +35,9 @@ La dernière version est dans **[Releases](../../releases/latest)** : téléchar
 
 ![FS25 Companion 1.5](images/presentation-complete-1.5-en.jpg)
 
-- 📱 **Companion** (phone, tablet or 2nd screen): map like the game's, field / vehicle / building / animal / silo cards, 📦 farm storage, 📜 contracts (see them, get notified, take one), to-do list, alerts, who does what, 📍 markers and teleport, 🛏 sleep.
-- 🎮 **In game**: info blocks you place anywhere (to-do, who does what, weather, current field, alerts, 💬 your live's Twitch chat), 🧭 compass at the top of the screen, F9 key.
-- 🎥 **Stream (OBS)**: your vehicle, implements, field, weather, money, compass… in a page you add to OBS, snapping blocks placed with the mouse.
+- 📱 **Companion** (2nd screen, tablet or phone): map like the game's, field cards with the ➜ **next step** and work in progress, 🛒 **buy fields and buildings**, 🏠 **grouped and renamed** buildings, 📦 storage with prices and "Sell / Wait / Keep" advice, 📜 contracts, to-do list, alerts (including stopped workers), who does what, 📍 markers and teleport, 💬 Twitch live and chat.
+- 🎮 **In game**: 🧭 **GPS on the real roads** (chevrons or dots in the right direction of your lane), 🗺️ **mini-map** with your workers (done area, %), field colours, other players and ping, info blocks you place anywhere (to-do, current field, weather, alerts, Twitch chat), compass, F9 key.
+- 🎥 **Stream (OBS)**: your vehicle, implements, field, weather, money, mini-map… in a page you add to OBS, snapping blocks you place with the mouse, works on a 2nd streaming PC too.
 - 🔄 **One-click updates** from the app's start window.
 
 **Download**: get the installer (.exe) from **[Releases](../../releases/latest)** and run it. If Windows says "Windows protected your PC", click "More info" then "Run anyway". The app installs and updates the mod by itself.
