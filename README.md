@@ -1,6 +1,6 @@
 # FS25 Companion — by leLuxo
 
-![FS25 Companion 1.5](images/presentation-complete-1.5-fr.jpg)
+![FS25 Companion 1.7](images/1_affiche.png)
 
 Compagnon de jeu **et** overlay de stream pour **Farming Simulator 25**. Gratuit, en français et en anglais. Pas besoin d'être streamer : le Compagnon marche aussi tout seul, en solo ou en multi.
 
@@ -33,7 +33,7 @@ La dernière version est dans **[Releases](../../releases/latest)** : téléchar
 
 ## English
 
-![FS25 Companion 1.5](images/presentation-complete-1.5-en.jpg)
+![FS25 Companion 1.7](images/1_poster_en.png)
 
 - 📱 **Companion** (2nd screen, tablet or phone): map like the game's, field cards with the ➜ **next step** and work in progress, 🛒 **buy fields and buildings**, 🏠 **grouped and renamed** buildings, 📦 storage with prices and "Sell / Wait / Keep" advice, 📜 contracts, to-do list, alerts (including stopped workers), who does what, 📍 markers and teleport, 💬 Twitch live and chat.
 - 🎮 **In game**: 🧭 **GPS on the real roads** (chevrons or dots in the right direction of your lane), 🗺️ **mini-map** with your workers (done area, %), field colours, other players and ping, info blocks you place anywhere (to-do, current field, weather, alerts, Twitch chat), compass, F9 key.
