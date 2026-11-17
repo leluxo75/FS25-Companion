@@ -13,6 +13,16 @@ Compagnon de jeu **et** overlay de stream pour **Farming Simulator 25**. Gratuit
 - 🎥 **Stream (OBS)** : ton véhicule, tes outils, le champ, la météo, l'argent, la mini-carte… dans une page à ajouter dans OBS, blocs aimantés à placer à la souris, possible sur un 2e PC de stream.
 - 🔄 **Mises à jour en 1 clic** depuis la fenêtre d'accueil de l'application.
 
+## 📸 En images
+
+![Compagnon](images/1.7-fr-2-compagnon.jpg)
+
+![Dans le jeu](images/1.7-fr-3-jeu.jpg)
+
+![Ta ferme](images/1.7-fr-4-ferme.jpg)
+
+![Stream (OBS)](images/1.7-fr-5-stream.jpg)
+
 ## ⬇️ Télécharger
 
 La dernière version est dans **[Releases](../../releases/latest)** : télécharge le fichier d'installation (.exe) et lance-le. C'est le seul fichier nécessaire.
