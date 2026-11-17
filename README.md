@@ -13,15 +13,9 @@ Compagnon de jeu **et** overlay de stream pour **Farming Simulator 25**. Gratuit
 - 🎥 **Stream (OBS)** : ton véhicule, tes outils, le champ, la météo, l'argent, la mini-carte… dans une page à ajouter dans OBS, blocs aimantés à placer à la souris, possible sur un 2e PC de stream.
 - 🔄 **Mises à jour en 1 clic** depuis la fenêtre d'accueil de l'application.
 
-## 📸 En images
+## 📋 Toutes les fonctionnalités
 
-![Compagnon](images/1.7-fr-2-compagnon.jpg)
-
-![Dans le jeu](images/1.7-fr-3-jeu.jpg)
-
-![Ta ferme](images/1.7-fr-4-ferme.jpg)
-
-![Stream (OBS)](images/1.7-fr-5-stream.jpg)
+![Toutes les fonctionnalités de FS25 Companion 1.7](images/1.7-fr-6-tout.jpg)
 
 ## ⬇️ Télécharger
 
@@ -49,6 +43,10 @@ La dernière version est dans **[Releases](../../releases/latest)** : téléchar
 - 🎮 **In game**: 🧭 **GPS on the real roads** (chevrons or dots in the right direction of your lane), 🗺️ **mini-map** with your workers (done area, %), field colours, other players and ping, info blocks you place anywhere (to-do, current field, weather, alerts, Twitch chat), compass, F9 key.
 - 🎥 **Stream (OBS)**: your vehicle, implements, field, weather, money, mini-map… in a page you add to OBS, snapping blocks you place with the mouse, works on a 2nd streaming PC too.
 - 🔄 **One-click updates** from the app's start window.
+
+### 📋 All features
+
+![All features of FS25 Companion 1.7](images/1.7-en-6-all-features.jpg)
 
 **Download**: get the installer (.exe) from **[Releases](../../releases/latest)** and run it. If Windows says "Windows protected your PC", click "More info" then "Run anyway". The app installs and updates the mod by itself.
 **💡 Tip**: start FS25 Companion **before** the game: if the game is already open, Windows locks the mod file and the update can't happen.
